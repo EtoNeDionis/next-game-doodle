@@ -7,7 +7,6 @@ import { Input } from "./Input";
 import { BrownPlatform } from "./Platforms/BrownPlatform";
 import { Platform } from "./Platforms/Platform";
 import { Player } from "./Player";
-import { Projectile } from "./Projectile";
 
 export class Game {
     input: Input

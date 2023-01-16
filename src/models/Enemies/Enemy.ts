@@ -1,4 +1,4 @@
-import { gameSettings, IPosition, IV } from "..";
+import { IPosition, IV } from "../.."
 
 export class Enemy {
     position: IPosition

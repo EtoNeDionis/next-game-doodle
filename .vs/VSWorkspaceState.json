@@ -3,12 +3,14 @@
     "",
     "\\public",
     "\\public\\images",
+    "\\public\\sounds",
     "\\src",
     "\\src\\models",
+    "\\src\\models\\enemies",
     "\\src\\models\\Platforms",
     "\\src\\pages",
     "\\src\\styles"
   ],
-  "SelectedNode": "\\src\\models\\Player.ts",
+  "SelectedNode": "\\src\\models\\Game.ts",
   "PreviewInSolutionExplorer": false
 }
