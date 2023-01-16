@@ -51,7 +51,7 @@ export default function Home() {
             if (game.gameEnded) {
                 const HigherScore = localStorage.getItem("score") || 0
                 if (gameSettings.score > HigherScore)
-                    localStorage.setItem("score", gameSettings.score)
+                    localStorage.setItem("score", `${gameSettings.score}`)
             }
 
             if (game.input.keys.includes("KeyR")) {
